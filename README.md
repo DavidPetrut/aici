@@ -1,0 +1,2 @@
+# aici
+aici e proiectul
